@@ -1,4 +1,4 @@
-Olá! 👋
+Olá, bem-vindos!! 👋
 
 - 🌱 Programador em formação
 - 💻 Desenvolvimento Java, Spring, MySQL, Python
