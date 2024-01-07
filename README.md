@@ -1,6 +1,6 @@
 Olá, bem-vindos!! 👋
 
-- 🌱 Programador em formação
+- 🌱 Cientista de Dados em formação
 - 💻 Desenvolvimento Java, Spring, MySQL, Python
 
 <div style="display: inline_block"><br>
